@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import ExpensesForm from "./components/ExpensesForm";
 import ExpensesList from "./components/ExpensesList";
 import Dashboard from "./components/Dashboard";
-import Charts from "./components/charts";
+import Charts from "./components/Charts";
 import Statistics from "./components/Statistics";
 
 function App() {
