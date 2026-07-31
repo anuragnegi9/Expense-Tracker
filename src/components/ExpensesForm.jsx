@@ -123,7 +123,7 @@ function ExpensesForm({
               <option value="Bills">💡 Bills</option>
               <option value="Entertainment">🎬 Entertainment</option>
               <option value="Health">🏥 Health</option>
-              <option value="Education">🚬 Cigarette</option>
+              <option value="Cigarette">🚬 Cigarette</option>
               <option value="Other">📦 Other</option>
             </select>
           </div>
