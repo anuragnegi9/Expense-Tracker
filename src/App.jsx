@@ -223,7 +223,7 @@ function App() {
             <option value="Shopping">Shopping</option>
             <option value="Bills">Bills</option>
             <option value="Entertainment">Entertainment</option>
-            <option value="Health">Cigarette</option>
+            <option value="Cigarette">Cigarette</option>
             <option value="Other">Other</option>
           </select>
         </div>
